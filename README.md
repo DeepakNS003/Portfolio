@@ -72,7 +72,7 @@ A modern, interactive portfolio website showcasing Deepak Nethaji's skills, expe
 - MySQL 🗄️, PostgreSQL 🐘, Firebase 🔥, **PYODBC 🔌**
 
 ### **Data Science / ML**
-- Pandas 🐼, NumPy 📊, Matplotlib 📈, Scikit-Learn 🤖, Jupyter 📓, Power BI ![Power BI](https://img.shields.io/badge/Power%20BI-yellow), Tableau 📋, Excel
+- Pandas 🐼, NumPy 📊, Matplotlib 📈, Scikit-Learn 🤖, Jupyter 📓, Power BI !(https://img.shields.io/badge/Power%20BI-yellow), Tableau 📋, Excel
 
 ### **Cloud & DevOps**
 - AWS ☁️, GitHub Actions 🔄, Linux 🐧
